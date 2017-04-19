@@ -12,7 +12,7 @@ This script allows you to fine someone when you are cops with a notification sys
   
 # Commands
 
-  - The command is simple : /fine <id> <amount>
+  - The command is simple : "/fine <id> <amount>"
   - You can change the command in the sv_files.
   
 # Troubleshooting
