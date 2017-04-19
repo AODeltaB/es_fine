@@ -1,2 +1,2 @@
-# es_fine
-Fining system import in GTA 5 RP
+# SimpleFine
+A simple script for five that allow player to give a fine to a player
